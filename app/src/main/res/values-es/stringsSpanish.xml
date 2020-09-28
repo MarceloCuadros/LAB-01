@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="txtEstatura">Estatura</string>
+    <string name="txtPeso">Peso</string>
+    <string name="btnCalcularImc">Mostrar</string>
+    <string name="titulo">Ingrese datos</string>
+    <string name="lblPeso">kg.</string>
+    <string name="lblEstatura">m.</string>
+    <string name="lblTitulo">Resultado</string>
+    <string name="error1">Ingrese valor para la Estatura</string>
+    <string name="error2">Ingrese valor para el Peso</string>
+    <string name="error3">Ingrese valores para Peso y Estatura</string>
+    <string name="introduccion">Para la información que ingresó:</string>
+    <string name="estatura">Estatura:</string>
+    <string name="peso">Peso:</string>
+    <string name="resultado">Se obtuvieron los siguientes resultados:</string>
+    <string name="imc">IMC:</string>
+    <string name="condicion1">Condicion: Bajo Peso</string>
+    <string name="condicion2">Condicion: Normal</string>
+    <string name="condicion3">Condicion: Sobrepeso</string>
+    <string name="condicion4">Condicion: Obeso</string>
+    <string name="recomendaciones">Se recomienda lo siguiente:</string>
+    <string name="recomendacion1">Hable con su medico para establecer las posibles causas del bajo peso y si necesita ganar peso.</string>
+    <string name="recomendacion2">Mantener un peso saludable reduce el riesgo de enfermedades asociadas al sobrepeso y la obesidad.</string>
+    <string name="recomendacion3_4_1">Las personas obesas tienen un mayor riesgo de hipertensión arterial, diabetes y colesterol alto.</string>
+    <string name="recomendacion3_4_2">Toda persona que tenga sobrepeso debería tratar de evitar ganar más peso.</string>
+    <string name="español">Español</string>
+    <string name="ingles">Ingles</string>
+    <string name="aviso1">Seleccione un idioma</string>
+</resources>
